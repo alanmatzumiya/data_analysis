@@ -1,14 +1,8 @@
-# My old website
-**Personal Project:** My first personal website
-
-# Summary
-This website serves as my personal website where I can show all the projects I worked on and my experiences.
-
 # Technologies:
-  - HTML
-  - CSS
-  - Bootstrap
-  - GitHub Pages
+  - Python
+  - Jupyter
+  - Heroku
+  - Docker
   - Git
 
 
