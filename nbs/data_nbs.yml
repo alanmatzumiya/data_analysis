@@ -1,0 +1,315 @@
+module_1:
+  01.00-Syllabus.ipynb: ./notebooks/data_analysis/nbs/module_1/01.00-Syllabus.ipynb
+  02.00-Modeling.ipynb: ./notebooks/data_analysis/nbs/module_1/02.00-Modeling.ipynb
+  02.01-Campus-SIR-modeling.ipynb: ./notebooks/data_analysis/nbs/module_1/02.01-Campus-SIR-modeling.ipynb
+  02.02-Campus-SEIR-modeling.ipynb: ./notebooks/data_analysis/nbs/module_1/02.02-Campus-SEIR-modeling.ipynb
+  02.03-Campus-reopening.ipynb: ./notebooks/data_analysis/nbs/module_1/02.03-Campus-reopening.ipynb
+  02.04-Linear-Analysis-of-Campus-Reopening.ipynb: ./notebooks/data_analysis/nbs/module_1/02.04-Linear-Analysis-of-Campus-Reopening.ipynb
+  03.00-Introduction-to-Discrete-Event-Modeling.ipynb: ./notebooks/data_analysis/nbs/module_1/03.00-Introduction-to-Discrete-Event-Modeling.ipynb
+  03.01-Python-Generators.ipynb: ./notebooks/data_analysis/nbs/module_1/03.01-Python-Generators.ipynb
+  03.02-Introduction-to-Simpy.ipynb: ./notebooks/data_analysis/nbs/module_1/03.02-Introduction-to-Simpy.ipynb
+  03.03-Agent-Based-Models.ipynb: ./notebooks/data_analysis/nbs/module_1/03.03-Agent-Based-Models.ipynb
+  03.04-Modeling-Events.ipynb: ./notebooks/data_analysis/nbs/module_1/03.04-Modeling-Events.ipynb
+  03.05-Assignment.ipynb: ./notebooks/data_analysis/nbs/module_1/03.05-Assignment.ipynb
+  03.05d-Agent-based-model-covid.ipynb: ./notebooks/data_analysis/nbs/module_1/03.05d-Agent-based-model-covid.ipynb
+  03.06-Queuing-Systems-and-Poisson-Processes.ipynb: ./notebooks/data_analysis/nbs/module_1/03.06-Queuing-Systems-and-Poisson-Processes.ipynb
+  03.07-Simulating-Queuing-Systems.ipynb: ./notebooks/data_analysis/nbs/module_1/03.07-Simulating-Queuing-Systems.ipynb
+  03.08-Grocery-Store.ipynb: ./notebooks/data_analysis/nbs/module_1/03.08-Grocery-Store.ipynb
+  03.09-Batch-Chemical-Process.ipynb: ./notebooks/data_analysis/nbs/module_1/03.09-Batch-Chemical-Process.ipynb
+  03.10a-Agent-based-campus-covid-model.ipynb: ./notebooks/data_analysis/nbs/module_1/03.10a-Agent-based-campus-covid-model.ipynb
+module_2:
+  Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb: ./notebooks/data_analysis/nbs/module_2/Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb
+  Changes_in_Rainy_River_Flows_1970-2010.ipynb: ./notebooks/data_analysis/nbs/module_2/Changes_in_Rainy_River_Flows_1970-2010.ipynb
+  Dashboard.ipynb: ./notebooks/data_analysis/nbs/module_2/Dashboard.ipynb
+  Data_Examples.ipynb: ./notebooks/data_analysis/nbs/module_2/Data_Examples.ipynb
+  ENSO.ipynb: ./notebooks/data_analysis/nbs/module_2/ENSO.ipynb
+  Estimating_Rainy_Lake_Inflows_1971-2010.ipynb: ./notebooks/data_analysis/nbs/module_2/Estimating_Rainy_Lake_Inflows_1971-2010.ipynb
+  Feasibility_of_Rainy_Lake_Rule_Curves.ipynb: ./notebooks/data_analysis/nbs/module_2/Feasibility_of_Rainy_Lake_Rule_Curves.ipynb
+  Flow_Constrictions_on_Upper_Rainy_River.ipynb: ./notebooks/data_analysis/nbs/module_2/Flow_Constrictions_on_Upper_Rainy_River.ipynb
+  Freshet_Predictor_for_Rainy_Lake.ipynb: ./notebooks/data_analysis/nbs/module_2/Freshet_Predictor_for_Rainy_Lake.ipynb
+  Global_Historical_Climatology_Network.ipynb: ./notebooks/data_analysis/nbs/module_2/Global_Historical_Climatology_Network.ipynb
+  Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb: ./notebooks/data_analysis/nbs/module_2/Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb
+  Ice_Out_Dates.ipynb: ./notebooks/data_analysis/nbs/module_2/Ice_Out_Dates.ipynb
+  Ice_Out_Predictor_for_Rainy_Lake.ipynb: ./notebooks/data_analysis/nbs/module_2/Ice_Out_Predictor_for_Rainy_Lake.ipynb
+  Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb: ./notebooks/data_analysis/nbs/module_2/Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb
+  Improved_Prediction_of_Inflows.ipynb: ./notebooks/data_analysis/nbs/module_2/Improved_Prediction_of_Inflows.ipynb
+  Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb: ./notebooks/data_analysis/nbs/module_2/Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb
+  Limits to Rule Curve Performance.ipynb: ./notebooks/data_analysis/nbs/module_2/Limits
+    to Rule Curve Performance.ipynb
+  Lumped_Parameter_Model_for_Lake_Dynamics.ipynb: ./notebooks/data_analysis/nbs/module_2/Lumped_Parameter_Model_for_Lake_Dynamics.ipynb
+  Model Predictive Control.ipynb: ./notebooks/data_analysis/nbs/module_2/Model Predictive
+    Control.ipynb
+  Model_Predictive_Control_of_Dams_at_Kettle_Falls_and_International_Falls.ipynb: ./notebooks/data_analysis/nbs/module_2/Model_Predictive_Control_of_Dams_at_Kettle_Falls_and_International_Falls.ipynb
+  Namakan_Lake_Outflows.ipynb: ./notebooks/data_analysis/nbs/module_2/Namakan_Lake_Outflows.ipynb
+  Namakan_Lake_Water_Levels.ipynb: ./notebooks/data_analysis/nbs/module_2/Namakan_Lake_Water_Levels.ipynb
+  Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb: ./notebooks/data_analysis/nbs/module_2/Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb
+  Precipitation_at_International_Falls_1970-2010.ipynb: ./notebooks/data_analysis/nbs/module_2/Precipitation_at_International_Falls_1970-2010.ipynb
+  Projects.ipynb: ./notebooks/data_analysis/nbs/module_2/Projects.ipynb
+  Rainy_Lake_Water_Levels.ipynb: ./notebooks/data_analysis/nbs/module_2/Rainy_Lake_Water_Levels.ipynb
+  Rainy_River_Flows.ipynb: ./notebooks/data_analysis/nbs/module_2/Rainy_River_Flows.ipynb
+  Rule_Curve_Optimization.ipynb: ./notebooks/data_analysis/nbs/module_2/Rule_Curve_Optimization.ipynb
+  Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb: ./notebooks/data_analysis/nbs/module_2/Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb
+  Stage-Volume_Relationships.ipynb: ./notebooks/data_analysis/nbs/module_2/Stage-Volume_Relationships.ipynb
+  USGS Surface Water Daily Data.ipynb: ./notebooks/data_analysis/nbs/module_2/USGS
+    Surface Water Daily Data.ipynb
+  Untitled.ipynb: ./notebooks/data_analysis/nbs/module_2/Untitled.ipynb
+  Water_Survey_of_Canada_HYDAT.ipynb: ./notebooks/data_analysis/nbs/module_2/Water_Survey_of_Canada_HYDAT.ipynb
+  Water_Survey_of_Canada_Usage.ipynb: ./notebooks/data_analysis/nbs/module_2/Water_Survey_of_Canada_Usage.ipynb
+module_3:
+  01.00-Getting-Started-with-Pyomo.ipynb: ./notebooks/data_analysis/nbs/module_3/01.00-Getting-Started-with-Pyomo.ipynb
+  01.01-Installing-Pyomo.ipynb: ./notebooks/data_analysis/nbs/module_3/01.01-Installing-Pyomo.ipynb
+  01.02-Running-Pyomo-on-Google-Colab.ipynb: ./notebooks/data_analysis/nbs/module_3/01.02-Running-Pyomo-on-Google-Colab.ipynb
+  01.03-Running-Pyomo-on-the-Notre-Dame-CRC-Cluster.ipynb: ./notebooks/data_analysis/nbs/module_3/01.03-Running-Pyomo-on-the-Notre-Dame-CRC-Cluster.ipynb
+  01.04-Cross-Platform-Installation-of-Pyomo-and-Solvers.ipynb: ./notebooks/data_analysis/nbs/module_3/01.04-Cross-Platform-Installation-of-Pyomo-and-Solvers.ipynb
+  02.00-Linear-Programming.ipynb: ./notebooks/data_analysis/nbs/module_3/02.00-Linear-Programming.ipynb
+  02.01-Production-Models-with-Linear-Constraints.ipynb: ./notebooks/data_analysis/nbs/module_3/02.01-Production-Models-with-Linear-Constraints.ipynb
+  02.02-Linear-Blending-Problem.ipynb: ./notebooks/data_analysis/nbs/module_3/02.02-Linear-Blending-Problem.ipynb
+  02.03-Mixture-Design-Cold-Weather-Fuel.ipynb: ./notebooks/data_analysis/nbs/module_3/02.03-Mixture-Design-Cold-Weather-Fuel.ipynb
+  02.04-Gasoline-Blending.ipynb: ./notebooks/data_analysis/nbs/module_3/02.04-Gasoline-Blending.ipynb
+  02.05-Model-Predictive-Control-of-a-Double-Integrator.ipynb: ./notebooks/data_analysis/nbs/module_3/02.05-Model-Predictive-Control-of-a-Double-Integrator.ipynb
+  03.00-Assignment-Problems.ipynb: ./notebooks/data_analysis/nbs/module_3/03.00-Assignment-Problems.ipynb
+  03.01-Transportation-Networks.ipynb: ./notebooks/data_analysis/nbs/module_3/03.01-Transportation-Networks.ipynb
+  04.00-Scheduling-with-Disjunctive-Constraints.ipynb: ./notebooks/data_analysis/nbs/module_3/04.00-Scheduling-with-Disjunctive-Constraints.ipynb
+  04.01-Machine-Bottleneck.ipynb: ./notebooks/data_analysis/nbs/module_3/04.01-Machine-Bottleneck.ipynb
+  04.02-Job-Shop-Scheduling.ipynb: ./notebooks/data_analysis/nbs/module_3/04.02-Job-Shop-Scheduling.ipynb
+  04.03-Maintenance-Planning.ipynb: ./notebooks/data_analysis/nbs/module_3/04.03-Maintenance-Planning.ipynb
+  04.04-Scheduling-Multipurpose-Batch-Processes-using-State-Task_Networks.ipynb: ./notebooks/data_analysis/nbs/module_3/04.04-Scheduling-Multipurpose-Batch-Processes-using-State-Task_Networks.ipynb
+  04.05-Unit-Commitment.ipynb: ./notebooks/data_analysis/nbs/module_3/04.05-Unit-Commitment.ipynb
+  05.00-Simulation.ipynb: ./notebooks/data_analysis/nbs/module_3/05.00-Simulation.ipynb
+  05.01-Response-of-a-First-Order-System-to-Step-and-Square-Wave-Inputs.ipynb: ./notebooks/data_analysis/nbs/module_3/05.01-Response-of-a-First-Order-System-to-Step-and-Square-Wave-Inputs.ipynb
+  05.02-Exothermic-CSTR.ipynb: ./notebooks/data_analysis/nbs/module_3/05.02-Exothermic-CSTR.ipynb
+  05.03-Heat_Conduction_in_Various_Geometries.ipynb: ./notebooks/data_analysis/nbs/module_3/05.03-Heat_Conduction_in_Various_Geometries.ipynb
+  06.00-Differential-Algebraic-Equations.ipynb: ./notebooks/data_analysis/nbs/module_3/06.00-Differential-Algebraic-Equations.ipynb
+  06.01-Unconstrained-Scalar-Optimization.ipynb: ./notebooks/data_analysis/nbs/module_3/06.01-Unconstrained-Scalar-Optimization.ipynb
+  06.02-Maximizing-Concentration-of-an-Intermediate-in-a-Batch-Reactor.ipynb: ./notebooks/data_analysis/nbs/module_3/06.02-Maximizing-Concentration-of-an-Intermediate-in-a-Batch-Reactor.ipynb
+  06.03-Path-Planning-for-a-Simple-Car.ipynb: ./notebooks/data_analysis/nbs/module_3/06.03-Path-Planning-for-a-Simple-Car.ipynb
+  06.04-Soft-Landing-Apollo-11-on-the-Moon.ipynb: ./notebooks/data_analysis/nbs/module_3/06.04-Soft-Landing-Apollo-11-on-the-Moon.ipynb
+  07.00-Parameter-Estimation.ipynb: ./notebooks/data_analysis/nbs/module_3/07.00-Parameter-Estimation.ipynb
+  07.01-Parameter-Estimation-Catalytic-Reactor.ipynb: ./notebooks/data_analysis/nbs/module_3/07.01-Parameter-Estimation-Catalytic-Reactor.ipynb
+  08.00-Financial-Applications.ipynb: ./notebooks/data_analysis/nbs/module_3/08.00-Financial-Applications.ipynb
+  08.01-Obtaining-Historical-Stock_-ata.ipynb: ./notebooks/data_analysis/nbs/module_3/08.01-Obtaining-Historical-Stock_-ata.ipynb
+  08.02-Consolidating-and-Charting-Stock-Data.ipynb: ./notebooks/data_analysis/nbs/module_3/08.02-Consolidating-and-Charting-Stock-Data.ipynb
+  08.03-Binomial-Model-for-Pricing-Options.ipynb: ./notebooks/data_analysis/nbs/module_3/08.03-Binomial-Model-for-Pricing-Options.ipynb
+  08.04-MAD-Portfolio-Optimization.ipynb: ./notebooks/data_analysis/nbs/module_3/08.04-MAD-Portfolio-Optimization.ipynb
+  08.05-Real-Options.ipynb: ./notebooks/data_analysis/nbs/module_3/08.05-Real-Options.ipynb
+  A.00-Style-Guide.ipynb: ./notebooks/data_analysis/nbs/module_3/A.00-Style-Guide.ipynb
+  index.ipynb: ./notebooks/data_analysis/nbs/module_3/index.ipynb
+  toc.ipynb: ./notebooks/data_analysis/nbs/module_3/toc.ipynb
+module_4:
+  01.00-Introduction.ipynb: ./notebooks/data_analysis/nbs/module_4/01.00-Introduction.ipynb
+  02.00-Challenge_of_Controlling_Natural_Watersheds.ipynb: ./notebooks/data_analysis/nbs/module_4/02.00-Challenge_of_Controlling_Natural_Watersheds.ipynb
+  02.01-Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb: ./notebooks/data_analysis/nbs/module_4/02.01-Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb
+  02.02-Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb: ./notebooks/data_analysis/nbs/module_4/02.02-Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb
+  02.03-Changes_in_Rainy_River_Flows_1970-2010.ipynb: ./notebooks/data_analysis/nbs/module_4/02.03-Changes_in_Rainy_River_Flows_1970-2010.ipynb
+  02.04-Flow_Constrictions_on_Upper_Rainy_River.ipynb: ./notebooks/data_analysis/nbs/module_4/02.04-Flow_Constrictions_on_Upper_Rainy_River.ipynb
+  02.05-State-of-Nature-Flows.ipynb: ./notebooks/data_analysis/nbs/module_4/02.05-State-of-Nature-Flows.ipynb
+  03.00-Analysis_and_Design_of_Rule_Curves.ipynb: ./notebooks/data_analysis/nbs/module_4/03.00-Analysis_and_Design_of_Rule_Curves.ipynb
+  03.01-Feasibility_of_Rainy_Lake_Rule_Curves.ipynb: ./notebooks/data_analysis/nbs/module_4/03.01-Feasibility_of_Rainy_Lake_Rule_Curves.ipynb
+  03.02-Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb: ./notebooks/data_analysis/nbs/module_4/03.02-Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb
+  03.03-Limits_to_Rule_Curve_Performance.ipynb: ./notebooks/data_analysis/nbs/module_4/03.03-Limits_to_Rule_Curve_Performance.ipynb
+  03.04-Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb: ./notebooks/data_analysis/nbs/module_4/03.04-Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb
+  03.05-Rule_Curve_Optimization.ipynb: ./notebooks/data_analysis/nbs/module_4/03.05-Rule_Curve_Optimization.ipynb
+  04.00-Estimation.ipynb: ./notebooks/data_analysis/nbs/module_4/04.00-Estimation.ipynb
+  04.01-Estimating_Rainy_Lake_Inflows_1971-2010.ipynb: ./notebooks/data_analysis/nbs/module_4/04.01-Estimating_Rainy_Lake_Inflows_1971-2010.ipynb
+  05.00-Control.ipynb: ./notebooks/data_analysis/nbs/module_4/05.00-Control.ipynb
+  05.01-Lumped_Parameter_Model_for_Lake_Dynamics.ipynb: ./notebooks/data_analysis/nbs/module_4/05.01-Lumped_Parameter_Model_for_Lake_Dynamics.ipynb
+  05.02-Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb: ./notebooks/data_analysis/nbs/module_4/05.02-Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb
+  05.03-Model_Predictive_Control.ipynb: ./notebooks/data_analysis/nbs/module_4/05.03-Model_Predictive_Control.ipynb
+  06.00-Adaptive_Management.ipynb: ./notebooks/data_analysis/nbs/module_4/06.00-Adaptive_Management.ipynb
+  06.01-Ice_Out_Predictor_for_Rainy_Lake.ipynb: ./notebooks/data_analysis/nbs/module_4/06.01-Ice_Out_Predictor_for_Rainy_Lake.ipynb
+  06.02-Freshet_Predictor_for_Rainy_Lake.ipynb: ./notebooks/data_analysis/nbs/module_4/06.02-Freshet_Predictor_for_Rainy_Lake.ipynb
+  A.00-Data_Sources.ipynb: ./notebooks/data_analysis/nbs/module_4/A.00-Data_Sources.ipynb
+  A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb: ./notebooks/data_analysis/nbs/module_4/A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb
+  A.02-Water_Survey_of_Canada_Usage.ipynb: ./notebooks/data_analysis/nbs/module_4/A.02-Water_Survey_of_Canada_Usage.ipynb
+  A.03-Rainy_Lake_Water_Levels.ipynb: ./notebooks/data_analysis/nbs/module_4/A.03-Rainy_Lake_Water_Levels.ipynb
+  A.04-Namakan_Lake_Water_Levels.ipynb: ./notebooks/data_analysis/nbs/module_4/A.04-Namakan_Lake_Water_Levels.ipynb
+  A.05-Rainy_River_Flows.ipynb: ./notebooks/data_analysis/nbs/module_4/A.05-Rainy_River_Flows.ipynb
+  A.06-Namakan_Lake_Outflows.ipynb: ./notebooks/data_analysis/nbs/module_4/A.06-Namakan_Lake_Outflows.ipynb
+  A.07-USGS_Surface_Water_Daily_Data.ipynb: ./notebooks/data_analysis/nbs/module_4/A.07-USGS_Surface_Water_Daily_Data.ipynb
+  A.08-Stage-Volume_Relationships.ipynb: ./notebooks/data_analysis/nbs/module_4/A.08-Stage-Volume_Relationships.ipynb
+  A.09-Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb: ./notebooks/data_analysis/nbs/module_4/A.09-Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb
+  A.10-Ice_Out_Dates.ipynb: ./notebooks/data_analysis/nbs/module_4/A.10-Ice_Out_Dates.ipynb
+  A.11-Global_Historical_Climatology_Network.ipynb: ./notebooks/data_analysis/nbs/module_4/A.11-Global_Historical_Climatology_Network.ipynb
+  A.12-Precipitation_at_International_Falls_1970-2010.ipynb: ./notebooks/data_analysis/nbs/module_4/A.12-Precipitation_at_International_Falls_1970-2010.ipynb
+  A.13-ENSO.ipynb: ./notebooks/data_analysis/nbs/module_4/A.13-ENSO.ipynb
+  B.00-Projects.ipynb: ./notebooks/data_analysis/nbs/module_4/B.00-Projects.ipynb
+  B.01-Solar_Cycle.ipynb: ./notebooks/data_analysis/nbs/module_4/B.01-Solar_Cycle.ipynb
+  B.02-Dashboard.ipynb: ./notebooks/data_analysis/nbs/module_4/B.02-Dashboard.ipynb
+  index.ipynb: ./notebooks/data_analysis/nbs/module_4/index.ipynb
+  toc.ipynb: ./notebooks/data_analysis/nbs/module_4/toc.ipynb
+module_5:
+  050-Pandas-Intro.ipynb: ./notebooks/data_analysis/nbs/module_5/050-Pandas-Intro.ipynb
+  051-Pandas-Ejercicios.ipynb: ./notebooks/data_analysis/nbs/module_5/051-Pandas-Ejercicios.ipynb
+  COVID-19.ipynb: ./notebooks/data_analysis/nbs/module_5/COVID-19.ipynb
+  T1 - 1 - Data Cleaning - Carga de datos.ipynb: ./notebooks/data_analysis/nbs/module_5/T1
+    - 1 - Data Cleaning - Carga de datos.ipynb
+  "T1 - 2 - Data Cleaning - An\xE1lisis Preliminar de los Datos.ipynb": "./notebooks/data_analysis/nbs/module_5/T1\
+    \ - 2 - Data Cleaning - An\xE1lisis Preliminar de los Datos.ipynb"
+  T1 - 3 - Data Cleaning - Plots.ipynb: ./notebooks/data_analysis/nbs/module_5/T1
+    - 3 - Data Cleaning - Plots.ipynb
+  T10 - 1 - Analisis de Componentes Principales.ipynb: ./notebooks/data_analysis/nbs/module_5/T10
+    - 1 - Analisis de Componentes Principales.ipynb
+  T10 - 2 - Analisis de Componentes Principales SK Learn.ipynb: ./notebooks/data_analysis/nbs/module_5/T10
+    - 2 - Analisis de Componentes Principales SK Learn.ipynb
+  T10 - 3 - Plotly para dibujar.ipynb: ./notebooks/data_analysis/nbs/module_5/T10
+    - 3 - Plotly para dibujar.ipynb
+  T11 - 1 - TensorFlow101.ipynb: ./notebooks/data_analysis/nbs/module_5/T11 - 1 -
+    TensorFlow101.ipynb
+  "T11 - 2 - Se\xF1ales de tr\xE1fico.ipynb": "./notebooks/data_analysis/nbs/module_5/T11\
+    \ - 2 - Se\xF1ales de tr\xE1fico.ipynb"
+  T11 - 3 - Reconocimiento de texto escrito.ipynb: ./notebooks/data_analysis/nbs/module_5/T11
+    - 3 - Reconocimiento de texto escrito.ipynb
+  T12 - 1 - R y Python.ipynb: ./notebooks/data_analysis/nbs/module_5/T12 - 1 - R y
+    Python.ipynb
+  T2 - 1 - Data Cleaning - Data Wrangling.ipynb: ./notebooks/data_analysis/nbs/module_5/T2
+    - 1 - Data Cleaning - Data Wrangling.ipynb
+  "T2 - 2 - Data Cleaning - Funciones de distribuci\xF3n de probabilidad.ipynb": "./notebooks/data_analysis/nbs/module_5/T2\
+    \ - 2 - Data Cleaning - Funciones de distribuci\xF3n de probabilidad.ipynb"
+  "T2 - 3 - Data Cleaning - Agrupaci\xF3n de datos.ipynb": "./notebooks/data_analysis/nbs/module_5/T2\
+    \ - 3 - Data Cleaning - Agrupaci\xF3n de datos.ipynb"
+  "T2 - 4 - Data Cleaning - Concatenaci\xF3n de datos.ipynb": "./notebooks/data_analysis/nbs/module_5/T2\
+    \ - 4 - Data Cleaning - Concatenaci\xF3n de datos.ipynb"
+  "T3 - 1 - Statistics - Correlaci\xF3n.ipynb": "./notebooks/data_analysis/nbs/module_5/T3\
+    \ - 1 - Statistics - Correlaci\xF3n.ipynb"
+  T4 - 1 - Linear Regression - Datos ficticios.ipynb: ./notebooks/data_analysis/nbs/module_5/T4
+    - 1 - Linear Regression - Datos ficticios.ipynb
+  "T4 - 2 - Linear Regression - Regresi\xF3n lineal con statsmodel.ipynb": "./notebooks/data_analysis/nbs/module_5/T4\
+    \ - 2 - Linear Regression - Regresi\xF3n lineal con statsmodel.ipynb"
+  "T4 - 3 - Linear Regression - Validaci\xF3n del modelo.ipynb": "./notebooks/data_analysis/nbs/module_5/T4\
+    \ - 3 - Linear Regression - Validaci\xF3n del modelo.ipynb"
+  T4 - 4 - Linear Regression - SciKit-Learn.ipynb: ./notebooks/data_analysis/nbs/module_5/T4
+    - 4 - Linear Regression - SciKit-Learn.ipynb
+  "T4 - 5 - Linear Regression - Problemas con la regresi\xF3n lineal.ipynb": "./notebooks/data_analysis/nbs/module_5/T4\
+    \ - 5 - Linear Regression - Problemas con la regresi\xF3n lineal.ipynb"
+  "T5 - 1 - Logistic Regression - Matem\xE1ticas.ipynb": "./notebooks/data_analysis/nbs/module_5/T5\
+    \ - 1 - Logistic Regression - Matem\xE1ticas.ipynb"
+  "T5 - 2 - Logistic Regression - Implementaci\xF3n.ipynb": "./notebooks/data_analysis/nbs/module_5/T5\
+    \ - 2 - Logistic Regression - Implementaci\xF3n.ipynb"
+  "T5 - 3 - Logistic Regression - Implementaci\xF3n con Python.ipynb": "./notebooks/data_analysis/nbs/module_5/T5\
+    \ - 3 - Logistic Regression - Implementaci\xF3n con Python.ipynb"
+  T6 - 1 - Distancias.ipynb: ./notebooks/data_analysis/nbs/module_5/T6 - 1 - Distancias.ipynb
+  "T6 - 2 - Clustering Jer\xE1rquico.ipynb": "./notebooks/data_analysis/nbs/module_5/T6\
+    \ - 2 - Clustering Jer\xE1rquico.ipynb"
+  T6 - 3 - K-Means.ipynb: ./notebooks/data_analysis/nbs/module_5/T6 - 3 - K-Means.ipynb
+  T6 - 4 - Clustering completo.ipynb: ./notebooks/data_analysis/nbs/module_5/T6 -
+    4 - Clustering completo.ipynb
+  "T6 - 5 - M\xE9todo del codo y la silueta.ipynb": "./notebooks/data_analysis/nbs/module_5/T6\
+    \ - 5 - M\xE9todo del codo y la silueta.ipynb"
+  "T6 - 6 - Propagaci\xF3n de la afinidad.ipynb": "./notebooks/data_analysis/nbs/module_5/T6\
+    \ - 6 - Propagaci\xF3n de la afinidad.ipynb"
+  T6 - 7 - K Medoides.ipynb: ./notebooks/data_analysis/nbs/module_5/T6 - 7 - K Medoides.ipynb
+  "T7 - 1 - Trees - \xC1rboles de Decisi\xF3n.ipynb": "./notebooks/data_analysis/nbs/module_5/T7\
+    \ - 1 - Trees - \xC1rboles de Decisi\xF3n.ipynb"
+  "T7 - 2 - Trees - \xC1rboles de Regresi\xF3n.ipynb": "./notebooks/data_analysis/nbs/module_5/T7\
+    \ - 2 - Trees - \xC1rboles de Regresi\xF3n.ipynb"
+  T8 - 1 - SVM - Linear SVC.ipynb: ./notebooks/data_analysis/nbs/module_5/T8 - 1 -
+    SVM - Linear SVC.ipynb
+  T8 - 2 - SVM - Model.ipynb: ./notebooks/data_analysis/nbs/module_5/T8 - 2 - SVM
+    - Model.ipynb
+  T8 - 3 - SVM - Kernels.ipynb: ./notebooks/data_analysis/nbs/module_5/T8 - 3 - SVM
+    - Kernels.ipynb
+  T8 - 4 - SVM - Face Recognition.ipynb: ./notebooks/data_analysis/nbs/module_5/T8
+    - 4 - SVM - Face Recognition.ipynb
+  "T8 - 5 - SVM - Clasificaci\xF3n de Iris.ipynb": "./notebooks/data_analysis/nbs/module_5/T8\
+    \ - 5 - SVM - Clasificaci\xF3n de Iris.ipynb"
+  "T8 - 6 - SVM - Regresi\xF3n.ipynb": "./notebooks/data_analysis/nbs/module_5/T8\
+    \ - 6 - SVM - Regresi\xF3n.ipynb"
+  T9 - 1 - K Nearest Neighbors.ipynb: ./notebooks/data_analysis/nbs/module_5/T9 -
+    1 - K Nearest Neighbors.ipynb
+  T9 - 2 - K Nearest Neighbors Implementation.ipynb: ./notebooks/data_analysis/nbs/module_5/T9
+    - 2 - K Nearest Neighbors Implementation.ipynb
+  "T9 - 3 - Sistemas de recomendaci\xF3n.ipynb": "./notebooks/data_analysis/nbs/module_5/T9\
+    \ - 3 - Sistemas de recomendaci\xF3n.ipynb"
+module_6:
+  01.00-Getting-Started-Guides.ipynb: ./notebooks/data_analysis/nbs/module_6/01.00-Getting-Started-Guides.ipynb
+  01.01-Getting-Started-with-CVXPY.ipynb: ./notebooks/data_analysis/nbs/module_6/01.01-Getting-Started-with-CVXPY.ipynb
+  01.02-Getting-Started-with-Gurobi.ipynb: ./notebooks/data_analysis/nbs/module_6/01.02-Getting-Started-with-Gurobi.ipynb
+  01.03-Getting-Started-with-GNU-MathProg.ipynb: ./notebooks/data_analysis/nbs/module_6/01.03-Getting-Started-with-GNU-MathProg.ipynb
+  01.04-Getting-Started-with-Pandas.ipynb: ./notebooks/data_analysis/nbs/module_6/01.04-Getting-Started-with-Pandas.ipynb
+  02.00-Simulation-of-Discrete-Event-Systems.ipynb: ./notebooks/data_analysis/nbs/module_6/02.00-Simulation-of-Discrete-Event-Systems.ipynb
+  02.01-Getting-Started-with-SimPy.ipynb: ./notebooks/data_analysis/nbs/module_6/02.01-Getting-Started-with-SimPy.ipynb
+  02.02-Queuing-Systems.ipynb: ./notebooks/data_analysis/nbs/module_6/02.02-Queuing-Systems.ipynb
+  02.03-Emergency_Room_Simulation.ipynb: ./notebooks/data_analysis/nbs/module_6/02.03-Emergency_Room_Simulation.ipynb
+  02.04-Discrete-Event-Simulation-of-a-Batch-Process.ipynb: ./notebooks/data_analysis/nbs/module_6/02.04-Discrete-Event-Simulation-of-a-Batch-Process.ipynb
+  02.05-Extracting_Information_from_Discrete-Event_Simulations.ipynb: ./notebooks/data_analysis/nbs/module_6/02.05-Extracting_Information_from_Discrete-Event_Simulations.ipynb
+  02.06-Spankys-Pizzeria.ipynb: ./notebooks/data_analysis/nbs/module_6/02.06-Spankys-Pizzeria.ipynb
+  02.07-Warehouse-Fulfillment-Operations.ipynb: ./notebooks/data_analysis/nbs/module_6/02.07-Warehouse-Fulfillment-Operations.ipynb
+  02.08-Geometric-Brownian-Price-Process.ipynb: ./notebooks/data_analysis/nbs/module_6/02.08-Geometric-Brownian-Price-Process.ipynb
+  02.09-Continuous-Time-Simulation-in-SimPy.ipynb: ./notebooks/data_analysis/nbs/module_6/02.09-Continuous-Time-Simulation-in-SimPy.ipynb
+  02.10-Decentralized-Control-in-a-Supply-Chain.ipynb: ./notebooks/data_analysis/nbs/module_6/02.10-Decentralized-Control-in-a-Supply-Chain.ipynb
+  03.00-Linear-Optimization.ipynb: ./notebooks/data_analysis/nbs/module_6/03.00-Linear-Optimization.ipynb
+  03.01-Production-Models-with-Constraints.ipynb: ./notebooks/data_analysis/nbs/module_6/03.01-Production-Models-with-Constraints.ipynb
+  03.02-Transportation-Networks.ipynb: ./notebooks/data_analysis/nbs/module_6/03.02-Transportation-Networks.ipynb
+  03.03-Data-Reconciliation.ipynb: ./notebooks/data_analysis/nbs/module_6/03.03-Data-Reconciliation.ipynb
+  04.00-Scheduling.ipynb: ./notebooks/data_analysis/nbs/module_6/04.00-Scheduling.ipynb
+  04.01-Critical-Path-Method.ipynb: ./notebooks/data_analysis/nbs/module_6/04.01-Critical-Path-Method.ipynb
+  04.02-Machine-Bottleneck.ipynb: ./notebooks/data_analysis/nbs/module_6/04.02-Machine-Bottleneck.ipynb
+  04.03-Job-Shop-Scheduling.ipynb: ./notebooks/data_analysis/nbs/module_6/04.03-Job-Shop-Scheduling.ipynb
+  04.04-Jesuit-Volunteer-Corps.ipynb: ./notebooks/data_analysis/nbs/module_6/04.04-Jesuit-Volunteer-Corps.ipynb
+  04.05-Unit-Commitment.ipynb: ./notebooks/data_analysis/nbs/module_6/04.05-Unit-Commitment.ipynb
+  04.06-Scheduling-Multipurpose-Batch-Processes-using-State-Task-Networks.ipynb: ./notebooks/data_analysis/nbs/module_6/04.06-Scheduling-Multipurpose-Batch-Processes-using-State-Task-Networks.ipynb
+  05.00-Logistics.ipynb: ./notebooks/data_analysis/nbs/module_6/05.00-Logistics.ipynb
+  05.01-Economic-Order-Quantity.ipynb: ./notebooks/data_analysis/nbs/module_6/05.01-Economic-Order-Quantity.ipynb
+  05.02-Assignment-Problems.ipynb: ./notebooks/data_analysis/nbs/module_6/05.02-Assignment-Problems.ipynb
+  05.03-Vehicle-Routing.ipynb: ./notebooks/data_analysis/nbs/module_6/05.03-Vehicle-Routing.ipynb
+  05.04-Vehicle-Routing-with-Time-Windows.ipynb: ./notebooks/data_analysis/nbs/module_6/05.04-Vehicle-Routing-with-Time-Windows.ipynb
+  05.05-Traveling-Salesman-Problem-with-Time-Windows.ipynb: ./notebooks/data_analysis/nbs/module_6/05.05-Traveling-Salesman-Problem-with-Time-Windows.ipynb
+  05.06-Pickup-and-Delivery.ipynb: ./notebooks/data_analysis/nbs/module_6/05.06-Pickup-and-Delivery.ipynb
+  05.07-Stock-Cutting.ipynb: ./notebooks/data_analysis/nbs/module_6/05.07-Stock-Cutting.ipynb
+  06.00-Optimization-under-Uncertainty.ipynb: ./notebooks/data_analysis/nbs/module_6/06.00-Optimization-under-Uncertainty.ipynb
+  06.01-Newsvendor-Problem.ipynb: ./notebooks/data_analysis/nbs/module_6/06.01-Newsvendor-Problem.ipynb
+  06.02-Scenario-Analysis-for-a-Plant-Expansion.ipynb: ./notebooks/data_analysis/nbs/module_6/06.02-Scenario-Analysis-for-a-Plant-Expansion.ipynb
+  06.03-Risk-Neutral-Gambler.ipynb: ./notebooks/data_analysis/nbs/module_6/06.03-Risk-Neutral-Gambler.ipynb
+  06.04-Risk-Averse-Gambler.ipynb: ./notebooks/data_analysis/nbs/module_6/06.04-Risk-Averse-Gambler.ipynb
+  06.05-Points-after-Touchdown-Decision.ipynb: ./notebooks/data_analysis/nbs/module_6/06.05-Points-after-Touchdown-Decision.ipynb
+  07.00-Risk-and-Diversification.ipynb: ./notebooks/data_analysis/nbs/module_6/07.00-Risk-and-Diversification.ipynb
+  07.01-Measuring-Return.ipynb: ./notebooks/data_analysis/nbs/module_6/07.01-Measuring-Return.ipynb
+  07.02-Geometric-Brownian-Motion.ipynb: ./notebooks/data_analysis/nbs/module_6/07.02-Geometric-Brownian-Motion.ipynb
+  07.03-Binomial-Model-for-Pricing-Options.ipynb: ./notebooks/data_analysis/nbs/module_6/07.03-Binomial-Model-for-Pricing-Options.ipynb
+  07.04-Real-Options.ipynb: ./notebooks/data_analysis/nbs/module_6/07.04-Real-Options.ipynb
+  07.05-Portfolio-Optimization.ipynb: ./notebooks/data_analysis/nbs/module_6/07.05-Portfolio-Optimization.ipynb
+  07.06-Portfolio-Optimization-using-Mean-Absolute-Deviation.ipynb: ./notebooks/data_analysis/nbs/module_6/07.06-Portfolio-Optimization-using-Mean-Absolute-Deviation.ipynb
+  07.07-MAD-Portfolio-Optimization.ipynb: ./notebooks/data_analysis/nbs/module_6/07.07-MAD-Portfolio-Optimization.ipynb
+  07.08-Log-Optimal-Growth-and-the-Kelly-Criterion.ipynb: ./notebooks/data_analysis/nbs/module_6/07.08-Log-Optimal-Growth-and-the-Kelly-Criterion.ipynb
+  07.09-Log-Optimal-Portfolios.ipynb: ./notebooks/data_analysis/nbs/module_6/07.09-Log-Optimal-Portfolios.ipynb
+  08.00-Optimization-in-Google-Sheets.ipynb: ./notebooks/data_analysis/nbs/module_6/08.00-Optimization-in-Google-Sheets.ipynb
+  09.00-Student-Projects.ipynb: ./notebooks/data_analysis/nbs/module_6/09.00-Student-Projects.ipynb
+  index.ipynb: ./notebooks/data_analysis/nbs/module_6/index.ipynb
+  toc.ipynb: ./notebooks/data_analysis/nbs/module_6/toc.ipynb
+module_7:
+  Assignment Problems.ipynb: ./notebooks/data_analysis/nbs/module_7/Assignment Problems.ipynb
+  Case Study - Landhills Winery.ipynb: ./notebooks/data_analysis/nbs/module_7/Case
+    Study - Landhills Winery.ipynb
+  Energy ETF's.ipynb: ./notebooks/data_analysis/nbs/module_7/Energy ETF's.ipynb
+  FernandoDemo.ipynb: ./notebooks/data_analysis/nbs/module_7/FernandoDemo.ipynb
+  Getting Started with Discrete Event Simulation.ipynb: ./notebooks/data_analysis/nbs/module_7/Getting
+    Started with Discrete Event Simulation.ipynb
+  Getting Started with GNU MathProg.ipynb: ./notebooks/data_analysis/nbs/module_7/Getting
+    Started with GNU MathProg.ipynb
+  Getting Started with IPython.ipynb: ./notebooks/data_analysis/nbs/module_7/Getting
+    Started with IPython.ipynb
+  Inventory Management.ipynb: ./notebooks/data_analysis/nbs/module_7/Inventory Management.ipynb
+  Jesuit Volunteer Corps.ipynb: ./notebooks/data_analysis/nbs/module_7/Jesuit Volunteer
+    Corps.ipynb
+  LP Problems in Development.ipynb: ./notebooks/data_analysis/nbs/module_7/LP Problems
+    in Development.ipynb
+  Landhills Winery.ipynb: ./notebooks/data_analysis/nbs/module_7/Landhills Winery.ipynb
+  Log-optimal Growth and the Kelly Criterion.ipynb: ./notebooks/data_analysis/nbs/module_7/Log-optimal
+    Growth and the Kelly Criterion.ipynb
+  Machine Bottleneck.ipynb: ./notebooks/data_analysis/nbs/module_7/Machine Bottleneck.ipynb
+  Machine Shop Throughput.ipynb: ./notebooks/data_analysis/nbs/module_7/Machine Shop
+    Throughput.ipynb
+  Newsvendor Problem.ipynb: ./notebooks/data_analysis/nbs/module_7/Newsvendor Problem.ipynb
+  Optimal Mixture and Blending Problems.ipynb: ./notebooks/data_analysis/nbs/module_7/Optimal
+    Mixture and Blending Problems.ipynb
+  Portfolio Optimization using Mean Absolute Deviation.ipynb: ./notebooks/data_analysis/nbs/module_7/Portfolio
+    Optimization using Mean Absolute Deviation.ipynb
+  Production Models with Constraints.ipynb: ./notebooks/data_analysis/nbs/module_7/Production
+    Models with Constraints.ipynb
+  PuLP Demo.ipynb: ./notebooks/data_analysis/nbs/module_7/PuLP Demo.ipynb
+  Stochastic Price Models.ipynb: ./notebooks/data_analysis/nbs/module_7/Stochastic
+    Price Models.ipynb
+  Transportation Networks.ipynb: ./notebooks/data_analysis/nbs/module_7/Transportation
+    Networks.ipynb
+  Warehouse Fulfillment Operations.ipynb: ./notebooks/data_analysis/nbs/module_7/Warehouse
+    Fulfillment Operations.ipynb
